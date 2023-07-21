@@ -3,7 +3,7 @@ Everyone is free to contribute to this project by extending it with other code o
 
 ## Reporting issues
 Before reporting problems, make sure you don't post duplicates. It is absolutely not accepted:
-- The use of vulgare language.
+- The use of inappropriate language.
 - Any kind of harassment.  
 
 [Click here for more.](link/to/code_of_conduct)
